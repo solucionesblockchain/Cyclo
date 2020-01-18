@@ -1,4 +1,4 @@
-# Cyclo 
+# Cyclo & Cyclos
 Es un token basado en la Blockchain, creado para cuantificar la energía y el recorrido a través de medios de movilidad sostenible
 
 .- Recibe recompensa en Cyclo Tokens por todos sus viajes.</br>
